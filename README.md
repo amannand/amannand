@@ -1,3 +1,5 @@
+![alt text](https://miro.medium.com/v2/resize:fit:1358/1*GPogIQvhNHw3XLxh44rd1g.jpeg)
+
 # Hi there, I'm Aman Anand!
 
 I'm Aman Anand, a senior C#/.NET expert with more than 8 years of experience creating and developing unique software solutions. I believe in the power of coding to transform ideas into reality.
