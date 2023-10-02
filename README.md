@@ -42,10 +42,6 @@ Here are a few of my notable projects:
       - Focused on optimizing page load times for multimedia content delivery.
       - Contributed to expanding the platform's digital audience and reader engagement.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amannand&show_icons=true&theme=radical)
-
 ## Let's Connect
 
 Feel free to connect with me on:
