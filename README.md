@@ -6,7 +6,7 @@ I'm Aman Anand, a senior C#/.NET expert with more than 8 years of experience cre
 
 ## About Me
 
-My path in C#/.NET has been marked by an unyielding commitment to excellence. I specialize in creating web and desktop apps using cutting-edge technologies such as ASP.NET Core, MVC, and Entity Framework for web development and WinForms/WPF for desktop development. This adaptability enables me to create bespoke solutions that not only meet but significantly surpass client expectations, regardless of the platform used.
+My path in C#/.NET/Java/Qt/C++/Angular/React has been marked by an unyielding commitment to excellence. I specialize in creating web and desktop apps using cutting-edge technologies such as ASP.NET Core, MVC, and Entity Framework for web development and WinForms/WPF for desktop development. This adaptability enables me to create bespoke solutions that not only meet but significantly surpass client expectations, regardless of the platform used.
 
 
 ## ⚡ Technologies
@@ -43,6 +43,16 @@ Here are a few of my notable projects:
       - Implemented responsive design to ensure a consistent reading experience across devices.
       - Focused on optimizing page load times for multimedia content delivery.
       - Contributed to expanding the platform's digital audience and reader engagement.
+
+3. **Health Monitoring Module (Java, Spring Boot, MS SQL Server)**
+   - Client: A US company providing healthcare solutions to hospitals and assisted living facilities.
+   - Challenge: Needed a health monitoring module for tracking patient health in assisted living.
+   - Solution: Developed a module with vitals and test results. It aggregates data, marks sources, and sends alerts for negative health changes.
+   - Results: The system enables tracking, data analytics, and automated alerts to help caregivers monitor and report patient health status.
+   - Technologies and Tools: Ext JS, SASS, Java 8, Spring, Hibernate, Apache Maven, Apache Tomcat, MS SQL Server 2012
+  
+4. **Real-Time LED Display Monitoring Software (C++, Qt, AI, WPF)**
+   - The Client, a leader in LED display manufacturing, sought to enhance real-time monitoring of image quality on its displays. I developed a desktop app that analyzes data from on-site      USB/IP cameras to detect and report issues with LED advertisements. The app, using OpenCV algorithms, identifies problems like frozen panels, incorrect color display, or panels           being switched off. It ensures accurate error reporting through a voting system, minimizing false positives/negatives. The solution runs on both Windows and Linux.
 
 ## Let's Connect
 
